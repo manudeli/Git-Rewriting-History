@@ -1,1 +1,1 @@
-Google Map 1.0.0
+Google Map 2.0.0
